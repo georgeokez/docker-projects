@@ -1,3 +1,3 @@
 # Nodejs web app
 
-Express app with handlebars view engine.
+A Simple express web app
